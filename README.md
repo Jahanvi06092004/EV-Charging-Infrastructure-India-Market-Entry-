@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./banner.png" alt="EV Charging Infrastructure – Market Entry Opportunity in India" width="100%">
+</p>
+
 # 🚗 EV Charging Infrastructure – Market Entry Opportunity in India
 
 ## 📌 Problem Statement
