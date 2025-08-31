@@ -21,7 +21,7 @@ The analysis focuses on:
 ---
 
 ## 📈 Market
-![Market Dashboard](./Screenshots/Screenshot1.png)  
+![Market Dashboard](https://github.com/Jahanvi06092004/EV-Charging-Infrastructure-India-Market-Entry-/blob/main/Market%20Opportunity%20Dashboard.png)  
 
 - EV Sales (2024): **293K**  
 - Market size: **₹141.4 Cr**  
