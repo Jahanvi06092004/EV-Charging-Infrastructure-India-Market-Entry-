@@ -51,7 +51,7 @@ The analysis focuses on:
 
 ---
 
-## 🎯 Insights
+## 🎯 Strategic Insights
 ![Strategic Dashboard](https://github.com/Jahanvi06092004/EV-Charging-Infrastructure-India-Market-Entry-/blob/main/Strategic%20Insights%20Dashboard.png)  
 
 - Avg ROI: **58.4%**  
@@ -61,8 +61,8 @@ The analysis focuses on:
 
 ---
 
-## 🏗 Investments
-![Investment Dashboard](./Screenshots/Screenshot5.png)  
+## 🏗 Investment Requirements
+![Investment Dashboard](https://github.com/Jahanvi06092004/EV-Charging-Infrastructure-India-Market-Entry-/blob/main/Investment%20Requirements%20Dashboard.png)  
 
 - Initial Cost: **₹131.6 Cr** | Capex (5 yrs): **₹459.8 Cr**  
 - Avg ROI: **14.3%**  
@@ -92,5 +92,22 @@ The analysis focuses on:
 
 ---
 
-## 📂 Project Structure
+---
+
+## 🛠 Tools & Skills
+- **Power BI** → Dashboarding, Modeling & Visualizations 
+- **Excel** → Data prep & cleaning. 
+- **PowerPoint** → Presentation 
+- **Business Analysis** → Market sizing, ROI, strategy  
+
+---
+
+## 👩‍💼 Author
+**Jahanvi Mishra**  
+ NIT Agartala (Mech Engg. 2027)  
+
+📧 [jahanvimishra57@gmail.com](mailto:jahanvimishra57@gmail.com)  
+🌐 [LinkedIn](https://www.linkedin.com/) *(add your profile link)*  
+
+
 
