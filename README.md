@@ -52,7 +52,7 @@ The analysis focuses on:
 ---
 
 ## 🎯 Insights
-![Strategic Dashboard](./Screenshots/Screenshot4.png)  
+![Strategic Dashboard](https://github.com/Jahanvi06092004/EV-Charging-Infrastructure-India-Market-Entry-/blob/main/Strategic%20Insights%20Dashboard.png)  
 
 - Avg ROI: **58.4%**  
 - Best locations: **Commercial complexes, Premium urban areas, Malls**  
