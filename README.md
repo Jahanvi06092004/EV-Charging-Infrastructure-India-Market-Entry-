@@ -41,7 +41,7 @@ The analysis focuses on:
 ---
 
 ## ⚡ Stations Performance
-![Performance Dashboard](./Screenshots/Screenshot3.png)  
+![Performance Dashboard](https://github.com/Jahanvi06092004/EV-Charging-Infrastructure-India-Market-Entry-/blob/main/Operational%20Dashboard.png)  
 
 - Avg Utilization: **68.7%**  
 - Monthly Revenue: **₹20.5 Lakhs** | Profit: **₹6.8 Lakhs**  
