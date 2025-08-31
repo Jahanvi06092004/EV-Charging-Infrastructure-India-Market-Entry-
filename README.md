@@ -107,7 +107,7 @@ The analysis focuses on:
  NIT Agartala (Mech Engg. 2027)  
 
 📧 [jahanvimishra57@gmail.com](mailto:jahanvimishra57@gmail.com)  
-🌐 [LinkedIn](https://www.linkedin.com/) *(add your profile link)*  
+
 
 
 
