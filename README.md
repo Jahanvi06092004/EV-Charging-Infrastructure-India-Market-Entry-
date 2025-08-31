@@ -31,7 +31,7 @@ The analysis focuses on:
 ---
 
 ## 💰 Financials
-![Financial Dashboard](./Screenshots/Screenshot2.png)  
+![Financial Dashboard](https://github.com/Jahanvi06092004/EV-Charging-Infrastructure-India-Market-Entry-/blob/main/Financial%20Performance%20Dashboard.png)  
 
 - Revenue (2025–30): **₹1,208 Cr**  
 - Costs (2025–30): **₹1,676 Cr**  
@@ -40,7 +40,7 @@ The analysis focuses on:
 
 ---
 
-## ⚡ Stations
+## ⚡ Stations Performance
 ![Performance Dashboard](./Screenshots/Screenshot3.png)  
 
 - Avg Utilization: **68.7%**  
